@@ -1,8 +1,6 @@
 ## Hi there 👋 This is Mohamed Thameem
 
-Aspiring Software Developer
-<//img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-//- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+Aspiring Software Developer                                            
 - 🌱 I’m currently learning FullStack Development In Java 
 - 📫 How to reach me : mohamedthameem079@gmail.com
 
